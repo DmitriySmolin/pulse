@@ -1,0 +1,9 @@
+# Go: бинарники собираем в services/bin
+/services/bin/
+
+# Секреты для локального запуска
+.env
+
+# IDE
+.idea/
+.vscode/
